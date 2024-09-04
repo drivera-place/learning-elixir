@@ -2,7 +2,11 @@
 
 # Basic types
 
-## Section
+## Data types
+
+```elixir
+
+```
 
 ```elixir
 
