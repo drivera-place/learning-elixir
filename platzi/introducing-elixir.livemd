@@ -1,0 +1,9 @@
+<!-- livebook:{"persist_outputs":true} -->
+
+# Basic types
+
+## Section
+
+```elixir
+
+```
